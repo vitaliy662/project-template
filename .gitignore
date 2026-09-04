@@ -1,0 +1,91 @@
+# ============================
+# Для всех проектов
+# ============================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# ============================
+# C++
+# ============================
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.d
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+*.gcov.out
+*.stackdump
+*.core
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.suo
+*.user
+*.useroscci
+*.sln
+*.vcproj
+*.vcxproj
+*.vcxproj.*
+*.workspace
+*.layout
+*.depend
+*.depend.*
+*.kate-swp
+*.kate-swp.*

@@ -1,5 +1,7 @@
 # p-simple
 
+Версия 1.0.1 · Принята: 2026-09-07  
+
 Краткое описание: что, зачем, для кого.
 
 ## 🛠️ Запуск
@@ -17,7 +19,8 @@ npm install && npm run dev
 - [Идея и цели](docs/01-idea.md)  
 - [Требования](docs/02-requirements.md)  
 - [Архитектура](docs/03-architecture.md)  
-- [Спецификация](docs/04-spec.md)  
+- [Спецификация](docs/04-spec.md)
+- [Политика версионирования](docs/05-versioning.md)
 - [Задачи и статусы](TRACKER.md)  
 - [История изменений](CHANGELOG.md)
 
